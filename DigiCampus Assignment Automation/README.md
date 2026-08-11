@@ -550,12 +550,3 @@ This project is intended for educational and authorized institutional automation
 
 ````
 
-### Ek important GitHub point
-
-**`assignments.xlsx` aur actual DOCX files ko public repository mein daalne se pehle soch lena**, kyunki ye institutional/course material ho sakta hai. Agar repository public rakhni hai to better hai:
-
-```text
-examples/
-    assignments_sample.xlsx
-    sample_assignment.docx
-````
