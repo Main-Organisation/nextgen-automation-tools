@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Generated files
+generated/
+output/
+
+# Input student data
+input/*.xlsx
+input/*.xls
+input/*.csv
+
+# Temporary Word/PDF files
+*.tmp
+*.temp
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
