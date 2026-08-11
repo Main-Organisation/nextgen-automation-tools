@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Credentials / secrets
+.env
+.env.*
+credentials.json
+cookies.json
+secrets.json
+
+# Chrome local profile
+vgu_chrome_profile/
+
+# Local test files
+test_assignment.docx
+api_auth_test.py
+erp_test.py
+main.py
+
+# Temporary / duplicate scripts
+automation (1).py
+
+# Real assignment data
+assignments.xlsx
+assignments/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
